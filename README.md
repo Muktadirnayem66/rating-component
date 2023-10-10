@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Muktadirnayem66/rating-component.git)
+- Live Site URL: [Add live site URL here](https://muktadirnayem66.github.io/rating-component/)
 
 
 
@@ -34,7 +34,7 @@ this section i learned the dom manipulation.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Add your name here](https://muktadirnayem66.github.io/rating-component/)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Muktadirnayem66)
 
 
